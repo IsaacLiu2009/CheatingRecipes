@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": {
+      "tag": "minecraft:beds"
+    }
+  },
+  "result": {
+    "item": "minecraft:purple_bed",
+    "count": 64
+  }
+}
